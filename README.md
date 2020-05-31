@@ -15,9 +15,9 @@
 
 ## 과제 제출자
 
-👤 **이 보 라**
+👤 **황 선 미**
 
-* Github: [@Violet-Bora-Lee](https://github.com/Violet-Bora-Lee)
+* Github: [@peltraw](https://github.com/peltraw/)
 
 ## Show your support
 
